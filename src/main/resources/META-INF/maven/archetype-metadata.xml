@@ -9,7 +9,7 @@
 			<defaultValue>com.company.department</defaultValue>
 		</requiredProperty>
 		<requiredProperty key="artifactId">
-			<defaultValue>project</defaultValue>
+			<defaultValue>project-testsuite</defaultValue>
 		</requiredProperty>
 		<requiredProperty key="version">
 			<defaultValue>1.0.0-SNAPSHOT</defaultValue>
