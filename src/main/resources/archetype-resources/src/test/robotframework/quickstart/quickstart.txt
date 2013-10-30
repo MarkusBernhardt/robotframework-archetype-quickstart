@@ -18,7 +18,7 @@ Documentation     Robot Framework is a keyword-driven test automation framework.
 ...               
 ...               The application itself is in the sut directory and can be executed 
 ...               with a command python sut/login.py.
-Test Setup          Clear Login Database
+Test Setup        Clear Login Database
 Test Teardown      
 Force Tags        quickstart    
 Default Tags      example    smoke
