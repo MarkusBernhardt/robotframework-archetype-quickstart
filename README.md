@@ -62,10 +62,10 @@ Robotframework                                                        | PASS |
 10 critical tests, 10 passed, 0 failed
 10 tests total, 10 passed, 0 failed
 ==============================================================================
-Output:  /Users/markus/Downloads/tmp/yourproject-yourtestsuite/target/robotframework-reports/output.xml
-XUnit:   /Users/markus/Downloads/tmp/yourproject-yourtestsuite/target/robotframework-reports/TEST-robotframework.xml
-Log:     /Users/markus/Downloads/tmp/yourproject-yourtestsuite/target/robotframework-reports/log.html
-Report:  /Users/markus/Downloads/tmp/yourproject-yourtestsuite/target/robotframework-reports/report.html
+Output:  /Users/markus/yourproject-yourtestsuite/target/robotframework-reports/output.xml
+XUnit:   /Users/markus/yourproject-yourtestsuite/target/robotframework-reports/TEST-robotframework.xml
+Log:     /Users/markus/yourproject-yourtestsuite/target/robotframework-reports/log.html
+Report:  /Users/markus/yourproject-yourtestsuite/target/robotframework-reports/report.html
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
