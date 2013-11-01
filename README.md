@@ -3,8 +3,8 @@ robotframework-archetype-quickstart
 
 Robot Framework archetype for creating the testsuite from the quickstart guide.
 
-Using this archetype the only thing to create a working Robot Framework 
-testsuite is a existing Apache Maven installation.
+Note that an existing installation of *Oracle JDK 7* and *Apache Maven 3*
+are required to use this archetype.
 
 Usage
 -----
